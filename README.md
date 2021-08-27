@@ -32,10 +32,6 @@ A moving window mechanicsm is used, which 200 instances are used as training set
 # Libraries
 matplotlib==3.2.1 
 
-yfinance==0.1.62
-
-tensorflow==2.2.1
-
 seaborn==0.11.1
 
 scikit-learn==0.24.1
